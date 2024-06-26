@@ -1,0 +1,19 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="393dp"
+    android:height="315dp"
+    android:viewportWidth="393"
+    android:viewportHeight="315"
+    >
+    <group>
+        <clip-path
+            android:pathData="M0,0H393V315H0Z"
+            />
+        <!-- Use a roundRect with rounded corners at the bottom -->
+        <path
+            android:pathData="M0,0H393V275C393,292.673,379.673,306,362,306H31C13.327,306,0,292.673,0,275V0Z"
+            android:fillColor="#3098E3"
+            />
+    </group>
+</vector>
+

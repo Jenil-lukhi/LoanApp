@@ -1,0 +1,311 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Contact_Activity">
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/arrow_left_"
+            android:layout_width="31dp"
+            android:layout_height="31dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="18dp"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/baseline_arrow_back_ios_24"
+            android:layout_marginTop="74dp"
+            android:clipToOutline="true" />
+
+        <TextView
+            android:id="@+id/personal_in"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="129dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:lineSpacingExtra="-5sp"
+            android:text="@string/personal_in"
+            android:textAppearance="@style/personal_in" />
+
+        <TextView
+            android:id="@+id/please_fill"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="159dp"
+            android:layout_marginRight="126dp"
+            android:gravity="top"
+            android:text="@string/please_fill"
+            android:textAppearance="@style/please_fill" />
+
+        <TextView
+            android:id="@+id/group_596"
+            android:layout_width="271dp"
+            android:layout_height="79dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="62dp"
+            android:text="@string/contact2"
+            android:textSize="50dp"
+            android:textStyle=""
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:textColor="@color/blue"
+            android:layout_marginTop="210dp"
+            />
+
+<!--        <View-->
+<!--            android:id="@+id/ellipse_12"-->
+<!--            android:layout_width="42.82dp"-->
+<!--            android:layout_height="41.85dp"-->
+<!--            android:layout_alignParentLeft="true"-->
+<!--            android:layout_marginLeft="63dp"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="210dp"-->
+<!--            android:background="#3098E3"-->
+<!--            />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/some_id088"-->
+<!--            android:layout_width="12dp"-->
+<!--            android:layout_height="28dp"-->
+<!--            android:layout_alignParentLeft="true"-->
+<!--            android:layout_marginLeft="78dp"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="216dp"-->
+<!--            android:text="@string/some_id01"-->
+<!--            android:textAppearance="@style/some_id01"-->
+<!--            android:gravity="top"-->
+<!--            />-->
+
+
+<!--        <View-->
+<!--            android:id="@+id/ellipse_14"-->
+<!--            android:layout_width="41.85dp"-->
+<!--            android:layout_height="41.85dp"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="210dp"-->
+<!--            android:background="#3098E3"-->
+<!--            />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/some_id09"-->
+<!--            android:layout_width="15dp"-->
+<!--            android:layout_height="28dp"-->
+<!--            android:layout_alignParentLeft="true"-->
+<!--            android:layout_marginLeft="187dp"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="217dp"-->
+<!--            android:text="@string/some_id21"-->
+<!--            android:textAppearance="@style/some_id21"-->
+<!--            android:gravity="top"-->
+<!--            />-->
+
+<!--        <View-->
+<!--            android:id="@+id/ellipse_13"-->
+<!--            android:layout_width="42.82dp"-->
+<!--            android:layout_height="41.85dp"-->
+<!--            android:layout_alignParentLeft="true"-->
+<!--            android:layout_marginLeft="281.67dp"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="210dp"-->
+<!--            android:background="#3098E3"-->
+<!--            />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/some_id08"-->
+<!--            android:layout_width="15dp"-->
+<!--            android:layout_height="28dp"-->
+<!--            android:layout_alignParentLeft="true"-->
+<!--            android:layout_marginLeft="296dp"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="216dp"-->
+<!--            android:text="@string/some_id08"-->
+<!--            android:textAppearance="@style/some_id08"-->
+<!--            android:gravity="top"-->
+<!--            />-->
+
+<!--        <View-->
+<!--            android:id="@+id/group_595"-->
+<!--            android:layout_width="328dp"-->
+<!--            android:layout_height="166dp"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="321dp"-->
+<!--            />-->
+
+        <TextView
+            android:id="@+id/contact_1"
+            android:layout_width="79dp"
+            android:layout_height="21dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="321dp"
+            android:text="@string/contact_1"
+            android:textAppearance="@style/contact_1"
+            android:gravity="center_vertical"
+            />
+
+
+
+
+        <TextView
+            android:id="@+id/relationshi"
+            android:layout_width="89dp"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="357dp"
+            android:text="@string/relationshi"
+            android:textAppearance="@style/relationshi"
+            android:gravity="center_vertical"
+            />
+
+
+        <View
+            android:id="@+id/group_599"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="390dp"
+            android:background="@drawable/rectangle_9"
+            />
+
+        <EditText
+            android:id="@+id/please_sele"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="43dp"
+            android:layout_marginTop="395dp"
+            android:hint="@string/please_sele07"
+            android:textAppearance="@style/please_sele07" />
+
+        <View
+            android:id="@+id/group_600"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="445dp"
+            android:background="@drawable/rectangle_9"
+            />
+
+        <EditText
+            android:id="@+id/click_for_n"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="43dp"
+            android:layout_marginTop="450dp"
+            android:hint="@string/click_for_n"
+            android:textAppearance="@style/click_for_n" />
+
+        <View
+            android:id="@+id/group_597"
+            android:layout_width="328dp"
+            android:layout_height="166dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="537dp"
+            />
+
+        <TextView
+            android:id="@+id/contact_2"
+            android:layout_width="81dp"
+            android:layout_height="21dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="24dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="537dp"
+            android:text="@string/contact_2"
+            android:textAppearance="@style/contact_2"
+            android:gravity="center_vertical"
+            />
+
+        <TextView
+            android:id="@+id/relationshi02"
+            android:layout_width="89dp"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="24dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="573dp"
+            android:text="@string/relationshi"
+            android:textAppearance="@style/relationshi"
+            android:gravity="center_vertical"
+            />
+        <View
+            android:id="@+id/group_579"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="24dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="606dp"
+            android:background="@drawable/rectangle_9"
+            />
+
+        <EditText
+            android:id="@+id/please_sele06"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="37dp"
+            android:layout_marginTop="610dp"
+            android:hint="@string/please_sele07"
+            android:textAppearance="@style/please_sele07" />
+        <View
+            android:id="@+id/group_61"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="24dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="661dp"
+            android:background="@drawable/rectangle_9"
+            />
+
+        <EditText
+            android:id="@+id/click_for_1n"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="36dp"
+            android:layout_marginTop="665dp"
+            android:hint="@string/click_for_n"
+            android:textAppearance="@style/click_for_n" />
+
+        <Button
+            android:id="@+id/group_3"
+            android:layout_width="343dp"
+            android:layout_height="48dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="752dp"
+            android:text="Submit"
+            android:textSize="24dp"
+            android:backgroundTint="@color/blue"
+
+            />
+
+    </RelativeLayout>
+</ScrollView>

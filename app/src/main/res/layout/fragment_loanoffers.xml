@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Loanoffers">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <View
+            android:id="@+id/rectangle_3"
+            android:layout_width="328sp"
+            android:layout_height="130.03sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="40sp"
+            android:layout_marginTop="183sp"
+            android:background="@drawable/rectangle_00" />
+
+        <View
+            android:id="@+id/rectangle_9"
+            android:layout_width="31.19sp"
+            android:layout_height="26.01sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="56sp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="196sp"
+            android:background="@drawable/rectangle_28"
+        />
+
+
+        <View
+            android:id="@+id/vector"
+            android:layout_width="17.51sp"
+            android:layout_height="11.68sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="62.7sp"
+            android:layout_marginTop="203sp"
+            android:background="@drawable/cart1" />
+
+        <TextView
+            android:id="@+id/student_loa"
+            android:layout_width="116sp"
+            android:layout_height="22sp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="196sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="95sp"
+            android:text="@string/student_loa"
+            android:textAppearance="@style/student_loa"
+            android:gravity="center_horizontal|center_vertical"
+        />
+
+        <View
+            android:id="@+id/rectangle_56"
+            android:layout_width="72sp"
+            android:layout_height="29sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="266sp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="193sp"
+            android:background="@drawable/rectangle_56"
+        />
+
+
+        <TextView
+            android:id="@+id/apply"
+            android:layout_width="48sp"
+            android:layout_height="21.35sp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="196sp"
+            android:layout_marginLeft="278sp"
+            android:text="@string/apply"
+            android:textAppearance="@style/apply"
+            android:lineSpacingExtra="5sp"
+            android:gravity="center_horizontal|center_vertical"
+        />
+
+        <View
+            android:id="@+id/rectangle_90"
+            android:layout_width="331sp"
+            android:layout_height="82sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="40sp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="231.03sp"
+            android:background="@drawable/rectangle_90"
+        />
+
+        <TextView
+            android:id="@+id/some_id"
+            android:layout_width="43sp"
+            android:layout_height="22sp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="249sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="60sp"
+            android:text="@string/some_id000"
+            android:textAppearance="@style/some_id0000"
+            android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/interest"
+        android:layout_width="45sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="59sp"
+        android:layout_marginTop="269sp"
+        android:text="@string/interest"
+        android:textAppearance="@style/interest"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+    <TextView
+        android:id="@+id/ngn_1_50_00"
+        android:layout_width="149sp"
+        android:layout_height="21.35sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:layout_marginTop="249sp"
+        android:text="@string/ngn_1_50_00"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-2sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/maximum_amo"
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="274.29sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:text="@string/maximum_amo"
+        android:textAppearance="@style/maximum_amo"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+
+    <View
+        android:id="@+id/rectangle_64"
+        android:layout_width="331dp"
+        android:layout_height="130.03dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="327.3dp"
+        android:background="@drawable/rectangle_00" />
+
+    <View
+        android:id="@+id/rectangle_08"
+        android:layout_width="31.19sp"
+        android:layout_height="26.01sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="56sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="340.03dp"
+        android:background="@drawable/rectangle_28"
+        />
+
+
+    <View
+        android:id="@+id/vector1"
+        android:layout_width="17.51sp"
+        android:layout_height="11.68sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="62.7sp"
+        android:layout_marginTop="346.47dp"
+        android:background="@drawable/cart1" />
+
+    <TextView
+        android:id="@+id/nano_loa"
+        android:layout_width="116sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="341dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="95sp"
+        android:text="@string/nano_loan"
+        android:textAppearance="@style/student_loa"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <View
+        android:id="@+id/apply2"
+        android:layout_width="72sp"
+        android:layout_height="29sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="266sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="336.03dp"
+        android:background="@drawable/rectangle_56"
+        />
+
+
+    <TextView
+        android:id="@+id/apply3"
+        android:layout_width="48sp"
+        android:layout_height="21.35sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="340.03dp"
+        android:layout_marginLeft="278sp"
+        android:text="@string/apply"
+        android:textAppearance="@style/apply"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+    <View
+        android:id="@+id/rectangle_0"
+        android:layout_width="331sp"
+        android:layout_height="82sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="375.06dp"
+        android:background="@drawable/rectangle_90"
+        />
+
+    <TextView
+        android:id="@+id/some"
+        android:layout_width="43sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="393.03dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="60sp"
+        android:text="@string/some_id000"
+        android:textAppearance="@style/some_id0000"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/interest1"
+        android:layout_width="45sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="59sp"
+        android:layout_marginTop="413.03dp"
+        android:text="@string/interest"
+        android:textAppearance="@style/interest"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+    <TextView
+        android:id="@+id/ngn_1_5000"
+        android:layout_width="149sp"
+        android:layout_height="21.35sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:layout_marginTop="393dp"
+        android:text="@string/ngn_50_000"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-2sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/maximum_amot"
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="418.32dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:text="@string/maximum_amo"
+        android:textAppearance="@style/maximum_amo"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+
+
+    <View
+        android:id="@+id/rectangle_4"
+        android:layout_width="331dp"
+        android:layout_height="130.03dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="471.06dp"
+        android:background="@drawable/rectangle_00" />
+
+    <View
+        android:layout_width="31.19sp"
+        android:layout_height="26.01sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="56sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="484.06dp"
+        android:background="@drawable/rectangle_28"
+        />
+
+
+    <View
+
+        android:layout_width="17.51sp"
+        android:layout_height="11.68sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="62.7sp"
+        android:layout_marginTop="491.49dp"
+        android:background="@drawable/cart1" />
+
+    <TextView
+        android:layout_width="116sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="485.06dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="95sp"
+        android:text="@string/business_loan"
+        android:textAppearance="@style/student_loa"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <View
+        android:id="@+id/apply4"
+        android:layout_width="72sp"
+        android:layout_height="29sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="266sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="481.06dp"
+        android:background="@drawable/rectangle_56"
+        />
+
+
+    <TextView
+        android:layout_width="48sp"
+        android:layout_height="21.35sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="484.06dp"
+        android:layout_marginLeft="278sp"
+        android:text="@string/apply"
+        android:textAppearance="@style/apply"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+    <View
+
+        android:layout_width="331sp"
+        android:layout_height="82sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="519.09dp"
+        android:background="@drawable/rectangle_90"
+        />
+
+    <TextView
+        android:layout_width="43sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="537.06dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="60sp"
+        android:text="@string/_0_5"
+        android:textAppearance="@style/some_id0000"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:layout_width="45sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="59sp"
+        android:layout_marginTop="557.06dp"
+        android:text="@string/interest"
+        android:textAppearance="@style/interest"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+    <TextView
+        android:layout_width="149sp"
+        android:layout_height="21.35sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:layout_marginTop="537.06dp"
+        android:text="@string/ngn_1_50_000"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-2sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="562.35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:text="@string/maximum_amo"
+        android:textAppearance="@style/maximum_amo"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+    <View
+
+        android:layout_width="331dp"
+        android:layout_height="130.03dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="615.09dp"
+        android:background="@drawable/rectangle_00" />
+
+    <View
+        android:layout_width="31.19sp"
+        android:layout_height="26.01sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="56sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="628.09dp"
+        android:background="@drawable/rectangle_28"
+        />
+
+
+    <View
+
+        android:layout_width="17.51sp"
+        android:layout_height="11.68sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="62.7sp"
+        android:layout_marginTop="635.52dp"
+        android:background="@drawable/cart1" />
+
+    <TextView
+        android:layout_width="116sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="628dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="95sp"
+        android:text="@string/gold_loan"
+        android:textAppearance="@style/student_loa"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <View
+        android:id="@+id/apply5"
+        android:layout_width="72sp"
+        android:layout_height="29sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="266sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="625.09dp"
+        android:background="@drawable/rectangle_56"
+        />
+
+
+    <TextView
+        android:layout_width="48sp"
+        android:layout_height="21.35sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="628.09dp"
+        android:layout_marginLeft="278sp"
+        android:text="@string/apply"
+        android:textAppearance="@style/apply"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+    <View
+
+        android:layout_width="331sp"
+        android:layout_height="82sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="663.12dp"
+        android:background="@drawable/rectangle_90"
+        />
+
+    <TextView
+        android:layout_width="43sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="681.09dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="60sp"
+        android:text="@string/_0_3"
+        android:textAppearance="@style/some_id0000"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:layout_width="45sp"
+        android:layout_height="22sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="59sp"
+        android:layout_marginTop="701.09dp"
+        android:text="@string/interest"
+        android:textAppearance="@style/interest"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+    <TextView
+        android:layout_width="149sp"
+        android:layout_height="21.35sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:layout_marginTop="681.09dp"
+        android:text="@string/ngn_1_50_000"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-2sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="706.38dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198sp"
+        android:text="@string/maximum_amo"
+        android:textAppearance="@style/maximum_amo"
+        android:lineSpacingExtra="7sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+    </FrameLayout>
+
+</ScrollView>

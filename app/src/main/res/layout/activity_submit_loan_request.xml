@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Submit_Loan_request">
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/vector"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="7.28dp"
+        android:layout_marginLeft="10.33dp"
+        android:background="@drawable/baseline_arrow_back_ios_24" />
+
+
+    <TextView
+        android:id="@+id/submit_loan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="123dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-5sp"
+        android:text="@string/submit_loan"
+        android:textAppearance="@style/submit_loan" />
+
+
+
+
+    <TextView
+        android:id="@+id/payment_wil"
+        android:layout_width="328dp"
+        android:layout_height="44dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="163dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:text="@string/payment_wil"
+        android:textAppearance="@style/payment_wil"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_vertical"
+        />
+
+
+
+    <View
+        android:id="@+id/rectangle_3"
+        android:layout_width="337dp"
+        android:layout_height="184dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="231dp"
+        android:background="@drawable/rectangle"
+        />
+
+    <TextView
+        android:id="@+id/loan_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="255dp"
+        android:gravity="center_vertical"
+        android:lineSpacingExtra="5sp"
+        android:text="@string/loan_amount"
+        android:textAppearance="@style/loan_amount" />
+
+
+
+
+    <TextView
+        android:id="@+id/duration"
+        android:layout_width="57dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="226dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="255dp"
+        android:text="@string/duration"
+        android:textAppearance="@style/duration"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/ngn_20_000"
+        android:layout_width="107dp"
+        android:layout_height="22dp"
+        android:layout_marginLeft="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="285dp"
+        android:text="@string/ngn_20_000"
+        android:textAppearance="@style/ngn_20_000"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/days"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="225dp"
+        android:layout_marginTop="285dp"
+        android:gravity="center_vertical"
+        android:lineSpacingExtra="0sp"
+        android:text="@string/days1"
+        android:textAppearance="@style/days1" />
+
+
+    <TextView
+        android:id="@+id/interest"
+        android:layout_width="51dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="336dp"
+        android:text="@string/interest"
+        android:textAppearance="@style/interest1"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_vertical"
+        />
+
+
+
+    <TextView
+        android:id="@+id/ngn_2000"
+        android:layout_width="92dp"
+        android:layout_height="22dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="363dp"
+        android:text="@string/ngn_2000"
+        android:layout_marginLeft="56dp"
+        android:textAppearance="@style/ngn_2000"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/total_amouu"
+        android:layout_width="96dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="226dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="336dp"
+        android:text="@string/total_amouu"
+        android:textAppearance="@style/total_amouu"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_vertical"
+        />
+
+
+
+
+    <TextView
+        android:id="@+id/ngn_22_000"
+        android:layout_width="110dp"
+        android:layout_height="22dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="363dp"
+        android:layout_marginLeft="226dp"
+        android:text="@string/ngn_22_000"
+        android:textAppearance="@style/ngn_22_000"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+        />
+
+
+
+
+    <TextView
+        android:id="@+id/purpose_of_"
+        android:layout_width="129dp"
+        android:layout_height="19dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="447dp"
+        android:text="@string/purpose_of_"
+        android:textAppearance="@style/purpose_of_"
+        android:gravity="center_vertical"
+        />
+    <View
+        android:id="@+id/rectangle_85"
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="489dp"
+        android:background="@drawable/rectangle_9"
+        />
+
+    <EditText
+        android:id="@+id/education"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="46dp"
+        android:layout_marginTop="490dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:hint="@string/education"
+        android:textAppearance="@style/education"
+
+        />
+
+    <TextView
+        android:id="@+id/bank_accoun"
+        android:layout_width="201dp"
+        android:layout_height="19dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="563dp"
+        android:text="@string/bank_accoun"
+        android:textAppearance="@style/bank_accoun"
+        android:gravity="center_vertical"
+        />
+
+
+
+    <View
+        android:id="@+id/group_599"
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="605dp"
+        android:background="@drawable/rectangle_9"
+        />
+
+    <EditText
+        android:id="@+id/icici_bank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="605dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:hint="@string/icici_bank"
+        android:textAppearance="@style/icici_bank"
+
+        />
+
+
+    <View
+        android:id="@+id/group_600"
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="31dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="660dp"
+        android:background="@drawable/rectangle_9"
+        />
+
+    <EditText
+        android:id="@+id/some_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="47dp"
+        android:layout_marginTop="665dp"
+        android:alpha="0.45"
+        android:gravity="center_horizontal|center_vertical"
+        android:hint="@string/some_id"
+        android:textAppearance="@style/some_id" />
+
+    <Button
+        android:id="@+id/group_3"
+        android:layout_width="343dp"
+        android:layout_height="48dp"
+        android:text="Submit"
+        android:textSize="18dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="736dp"
+        android:backgroundTint="@color/blue"
+        />
+
+
+</RelativeLayout>
+</ScrollView>

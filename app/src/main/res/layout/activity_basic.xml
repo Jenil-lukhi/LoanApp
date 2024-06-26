@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Basic_Activity">
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/arrow_left_"
+            android:layout_width="31dp"
+            android:layout_height="31dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="18dp"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/baseline_arrow_back_ios_24"
+            android:layout_marginTop="74dp"
+            android:clipToOutline="true" />
+
+        <TextView
+            android:id="@+id/personal_in"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="129dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:lineSpacingExtra="-5sp"
+            android:text="@string/personal_in"
+            android:textAppearance="@style/personal_in" />
+
+        <TextView
+            android:id="@+id/please_fill"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="159dp"
+            android:layout_marginRight="126dp"
+            android:gravity="top"
+            android:text="@string/please_fill"
+            android:textAppearance="@style/please_fill" />
+
+        <TextView
+            android:id="@+id/group_596"
+            android:layout_width="271dp"
+            android:layout_height="79dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="62dp"
+            android:text="@string/basic2"
+            android:textSize="50dp"
+            android:textStyle=""
+            android:gravity="center"
+            android:layout_alignParentTop="true"
+            android:textColor="@color/blue"
+            android:layout_marginTop="210dp" />
+
+        <TextView
+            android:id="@+id/first_name"
+            android:layout_width="78dp"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="28dp"
+            android:layout_marginTop="326dp"
+            android:gravity="center_vertical"
+            android:text="@string/first_name"
+            android:textAppearance="@style/first_name" />
+
+        <View
+            android:id="@+id/rectangle_3"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="355dp"
+            android:background="@drawable/rectangle_9" />
+
+        <EditText
+            android:id="@+id/please_ente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="54dp"
+            android:layout_marginTop="355dp"
+            android:inputType="text"
+            android:textSize="18dp"
+            android:hint="@string/please_ente"
+            android:textAppearance="@style/please_ente" />
+
+        <TextView
+            android:id="@+id/middle_name"
+            android:layout_width="95dp"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="32dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="408dp"
+            android:text="@string/middle_name"
+            android:textAppearance="@style/middle_name"
+            android:gravity="center_vertical" />
+
+        <View
+            android:id="@+id/group_580"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="32dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="437dp"
+            android:background="@drawable/rectangle_9" />
+
+        <EditText
+            android:id="@+id/please_ente1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="56dp"
+            android:layout_marginTop="438dp"
+            android:inputType="text"
+            android:hint="@string/please_ente1"
+            android:textSize="18dp"
+            android:textAppearance="@style/please_ente1" />
+
+        <TextView
+            android:id="@+id/last_name"
+            android:layout_width="77dp"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="33dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="490dp"
+            android:text="@string/last_name"
+            android:textAppearance="@style/last_name"
+            android:gravity="center_vertical" />
+
+        <View
+            android:id="@+id/rectangle_5"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="519dp"
+            android:background="@drawable/rectangle_9" />
+
+        <EditText
+            android:id="@+id/please_ente00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="56dp"
+            android:layout_marginTop="520dp"
+            android:inputType="text"
+            android:hint="@string/please_ente2"
+            android:textAppearance="@style/please_ente2"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/date_of_bir"
+            android:layout_width="94dp"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="33dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="572dp"
+            android:text="@string/date_of_bir"
+            android:textAppearance="@style/date_of_bir"
+            android:gravity="center_vertical" />
+
+        <View
+            android:id="@+id/group_585"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="33dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="601dp"
+            android:background="@drawable/rectangle_9" />
+
+        <EditText
+            android:id="@+id/dd_mm_yy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="54dp"
+            android:layout_marginTop="605dp"
+            android:inputType="date"
+            android:hint="@string/dd_mm_yy"
+            android:textAppearance="@style/dd_mm_yy" />
+
+        <TextView
+            android:id="@+id/gender"
+            android:layout_width="53dp"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="33dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="654dp"
+            android:text="@string/gender"
+            android:textAppearance="@style/gender"
+            android:gravity="center_vertical" />
+
+        <View
+            android:id="@+id/group_586"
+            android:layout_width="328dp"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="33dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="683dp"
+            android:background="@drawable/rectangle_9" />
+
+        <EditText
+            android:id="@+id/female"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="688dp"
+            android:hint="@string/female"
+            android:inputType="text"
+            android:textAppearance="@style/female" />
+
+        <Button
+            android:id="@+id/rectangl0"
+            android:layout_width="343dp"
+            android:layout_height="48dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="25dp"
+            android:layout_alignParentTop="true"
+            android:text="@string/next"
+            android:textSize="24dp"
+            android:layout_marginTop="752dp"
+            android:backgroundTint="@android:color/holo_blue_dark" />
+
+    </RelativeLayout>
+
+</ScrollView>

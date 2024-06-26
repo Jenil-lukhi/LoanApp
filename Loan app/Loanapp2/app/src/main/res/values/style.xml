@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="easy_access">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="my_loan_app">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="submit">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="don_t_have_">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="forgot_pass">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="some_id">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="password">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="example_gma">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="email">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="login_to_co">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="welcome_">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="forgot_your">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="you_ve_got_">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="we_will_sen">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="enter_your_">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="didn_t_rece">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="you_have_no">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="hello_john_">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="balance">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="ngn_0_00">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="monthly_pay">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="ngn_0_001">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="choose_from">
+        <item name="android:textSize">13sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="tell_me_mor">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#3098E3</item>
+    </style>
+
+    <style name="quick_links">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="apply_for_a">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="make_a_loan">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+
+    <style name="loan_breack">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="add_payment">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">-0.03</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="personal_in">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="please_fill">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="contact">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#747474</item>
+    </style>
+
+
+    <style name="some_id4">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+
+    <style name="some_id2">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#3098E3</item>
+    </style>
+
+
+    <style name="some_id3">
+    <item name="android:textSize">23sp</item>
+    <item name="android:textColor">#3098E3</item>
+</style>
+
+    <style name="basic">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="some_id5">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="some_id6">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#3098E3</item>
+    </style>
+
+    <style name="basic1">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+    <style name="some_id00">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="personal">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#747474</item>
+    </style>
+
+    <style name="contact1">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#747474</item>
+    </style>
+
+    <style name="first_name">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="please_ente">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="middle_name">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="please_ente1">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="last_name">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+
+    <style name="please_ente2">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="date_of_bir">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="dd_mm_yy">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="gender">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+
+    <style name="female">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="next">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="some_id01">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="some_id21">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="some_id02">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#3098E3</item>
+    </style>
+    <style name="personal1">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="education">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+    <style name="please_sele">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="job_status">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+    <style name="please_sele03">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="professiona">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="please_sele04">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+    <style name="salary">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+
+    <style name="please_sele05">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+    <style name="marital_sta">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+    <style name="please_sele06">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+
+    <style name="some_id08">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="contact_1">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+    <style name="relationshi">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+
+
+    <style name="please_sele07">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+
+    <style name="click_for_n">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+    <style name="contact_2">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+    <style name="student_loa">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="apply">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="some_id0000">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="interest">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#959595</item>
+    </style>
+
+    <style name="ngn_1_50_00">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="maximum_amo">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="fill_in_the">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="personal_in1">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="loan_amount">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="ngn_20_000">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="ngn_0">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="ngn_26_000">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="loan_term">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="days">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="days1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="ngn_1000_7_">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="ngn_20_0001">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="submit_loan">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="payment_wil">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="duration">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="interest1">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="ngn_2000">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="total_amouu">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="ngn_22_000">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="purpose_of_">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">#32201C</item>
+</style>
+    <style name="bank_accoun">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#32201C</item>
+    </style>
+    <style name="icici_bank">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#1C0F0D</item>
+    </style>
+    <style name="successful">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="your_loan_r">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="apex_soluti">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="my_profile">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="john_shekh">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="student">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="bank_cards">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="loan_activi">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+    <style name="gold_loan">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+    <style name="approved_21">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#252525</item>
+    </style>
+
+
+    <declare-styleable name="SpinKitView">
+        <attr name="SpinKit_Style">
+            <enum name="RotatingPlane" value="0"/>
+            <enum name="DoubleBounce" value="1"/>
+            <enum name="Wave" value="2"/>
+            <enum name="WanderingCubes" value="3"/>
+            <enum name="Pulse" value="4"/>
+            <enum name="ChasingDots" value="5"/>
+            <enum name="ThreeBounce" value="6"/>
+            <enum name="Circle" value="7"/>
+            <enum name="CubeGrid" value="8"/>
+            <enum name="FadingCircle" value="9"/>
+            <enum name="FoldingCube" value="10"/>
+            <enum name="RotatingCircle" value="11"/>
+            <enum name="MultiplePulse" value="12"/>
+            <enum name="PulseRing" value="13"/>
+            <enum name="MultiplePulseRing" value="14"/>
+        </attr>
+        <attr format="color" name="SpinKit_Color"/>
+    </declare-styleable>
+
+    <style name="SpinKitView">
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:minWidth">48dip</item>
+        <item name="android:maxWidth">48dip</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:maxHeight">48dip</item>
+    </style>
+    <style name="SpinKitView.ChasingDots">
+        <item name="SpinKit_Style">ChasingDots</item>
+    </style>
+    <style name="SpinKitView.Circle">
+        <item name="SpinKit_Style">Circle</item>
+    </style>
+    <style name="SpinKitView.CubeGrid">
+        <item name="SpinKit_Style">CubeGrid</item>
+    </style>
+    <style name="SpinKitView.DoubleBounce">
+        <item name="SpinKit_Style">DoubleBounce</item>
+    </style>
+    <style name="SpinKitView.FadingCircle">
+        <item name="SpinKit_Style">FadingCircle</item>
+    </style>
+    <style name="SpinKitView.FoldingCube">
+        <item name="SpinKit_Style">FoldingCube</item>
+    </style>
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+
+</resources>

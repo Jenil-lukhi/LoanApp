@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Apply">
+
+    <View
+        android:id="@+id/rectangle_1"
+        android:layout_width="match_parent"
+        android:layout_height="474dp"
+        android:background="@drawable/rectangle_2"
+      />
+
+    <View
+        android:id="@+id/vector"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="74dp"
+        android:background="@drawable/baseline_arrow_back_ios_24" />
+
+    <TextView
+        android:id="@+id/personal_in"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="123dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-5sp"
+        android:text="@string/personal_in"
+        android:textAppearance="@style/personal_in1" />
+
+    <TextView
+        android:id="@+id/fill_in_the"
+        android:layout_width="335dp"
+        android:layout_height="44dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="163dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:text="@string/fill_in_the"
+        android:textAppearance="@style/fill_in_the"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/loan_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="233dp"
+        android:gravity="center_vertical"
+        android:lineSpacingExtra="3sp"
+        android:text="@string/loan_amount"
+        android:textAppearance="@style/loan_amount" />
+
+    <TextView
+        android:id="@+id/ngn_20_000"
+        android:layout_width="96dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="233dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="267dp"
+        android:text="@string/ngn_20_000"
+        android:textAppearance="@style/ngn_20_000"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <View
+        android:id="@+id/rectangle_3"
+        android:layout_width="334dp"
+        android:layout_height="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="273dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="29dp"
+        android:background="#0F588D"
+        />
+    <TextView
+        android:id="@+id/ngn_0"
+        android:layout_width="51dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="301dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:text="@string/ngn_0"
+        android:textAppearance="@style/ngn_0"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/ngn_26_000"
+        android:layout_width="95dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="301dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="267dp"
+        android:text="@string/ngn_26_000"
+        android:textAppearance="@style/ngn_26_000"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/loan_term"
+        android:layout_width="81dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="355dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:text="@string/loan_term"
+        android:textAppearance="@style/loan_term"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <View
+        android:id="@+id/rectangl"
+        android:layout_width="232dp"
+        android:layout_height="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="395dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="130dp"
+        android:background="#FFFFFF"
+        />
+
+    <View
+        android:id="@+id/rectangle"
+        android:layout_width="334dp"
+        android:layout_height="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="395dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:background="#0F588D"
+        />
+
+    <TextView
+        android:id="@+id/days"
+        android:layout_width="66dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="423dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:text="@string/days"
+        android:textAppearance="@style/days"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/days1"
+        android:layout_width="62dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="423dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="298dp"
+        android:text="@string/days1"
+        android:textAppearance="@style/days1"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <View
+        android:id="@+id/group_612"
+        android:layout_width="334dp"
+        android:layout_height="73dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="29dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="505dp"
+        android:background="@drawable/rectangle_00"
+        />
+
+    <TextView
+        android:id="@+id/interest"
+        android:layout_width="59dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="51dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="515dp"
+        android:text="@string/interest"
+        android:textAppearance="@style/interest"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/ngn_1000_7_"
+        android:layout_width="134dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="541dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="51dp"
+        android:text="@string/ngn_1000_7_"
+        android:textAppearance="@style/ngn_1000_7_"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+        />
+
+    <View
+        android:id="@+id/group_613"
+        android:layout_width="334dp"
+        android:layout_height="73dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="29dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="588dp"
+        android:background="@drawable/rectangle_00"
+        />
+
+    <TextView
+        android:id="@+id/interest_1"
+        android:layout_width="59dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="51dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="598dp"
+        android:text="@string/interest"
+        android:textAppearance="@style/interest"
+        android:lineSpacingExtra="3sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/ngn_20_0001"
+        android:layout_width="109dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="624dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="51dp"
+        android:text="@string/ngn_20_0001"
+        android:textAppearance="@style/ngn_20_0001"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+        />
+
+    <Button
+        android:id="@+id/group_3"
+        android:layout_width="343dp"
+        android:layout_height="48dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="690dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="25dp"
+        android:text="Continue"
+        android:textSize="18dp"
+        android:backgroundTint="@color/blue"
+        />
+
+
+
+</FrameLayout>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Poll_Fragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <View
+        android:id="@+id/vector"
+        android:layout_width="31dp"
+        android:layout_height="31dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="74dp"
+        android:layout_marginLeft="28dp"
+        android:background="@drawable/baseline_arrow_back_ios_24"
+        />
+
+    <TextView
+        android:id="@+id/loan_activi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="129dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-7sp"
+        android:text="@string/loan_activi"
+        android:textAppearance="@style/loan_activi" />
+
+    <View
+        android:id="@+id/rectangle_3"
+        android:layout_width="331dp"
+        android:layout_height="130.03dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="181.97dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:background="@drawable/rectangle_00"
+        />
+
+    <TextView
+        android:id="@+id/gold_loan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="196.53dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-5sp"
+        android:text="@string/gold_loan"
+        android:textAppearance="@style/gold_loan" />
+
+    <View
+        android:id="@+id/rectangle0"
+        android:layout_width="331dp"
+        android:layout_height="82dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="230dp"
+        android:background="@drawable/rectangle_90"
+        />
+
+    <View
+        android:id="@+id/rectangle_0"
+        android:layout_width="57dp"
+        android:layout_height="47.55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="247.96dp"
+        android:background="@drawable/rectangle_3"
+        />
+
+    <View
+        android:id="@+id/vector1"
+        android:layout_width="32dp"
+        android:layout_height="21.35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="261.5dp"
+        android:layout_marginLeft="73dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/cart1"
+        />
+
+    <TextView
+        android:id="@+id/ngn_1_50_00"
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="248.87dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/ngn_1_50_00"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/approved_21"
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="274.16dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/approved_21"
+        android:textAppearance="@style/approved_21"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+
+
+
+    <View
+        android:layout_width="331dp"
+        android:layout_height="130.03dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="326dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:background="@drawable/rectangle_00"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="340dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-5sp"
+        android:text="@string/student_loan"
+        android:textAppearance="@style/gold_loan" />
+
+    <View
+        android:layout_width="331dp"
+        android:layout_height="82dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="374.03dp"
+        android:background="@drawable/rectangle_90"
+        />
+
+    <View
+        android:layout_width="57dp"
+        android:layout_height="47.55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="391.99dp"
+        android:background="@drawable/rectangle_3"
+        />
+
+    <View
+        android:layout_width="32dp"
+        android:layout_height="21.35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="407.55dp"
+        android:layout_marginLeft="73dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/cart1"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="391.9dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/ngn_75_000"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="418.19dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/approved_21"
+        android:textAppearance="@style/approved_21"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+
+    <View
+        android:layout_width="331dp"
+        android:layout_height="130.03dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="470dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:background="@drawable/rectangle_00"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="484dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-5sp"
+        android:text="@string/business_loan1"
+        android:textAppearance="@style/gold_loan" />
+
+    <View
+        android:layout_width="331dp"
+        android:layout_height="82dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="518.03dp"
+        android:background="@drawable/rectangle_90"
+        />
+
+    <View
+        android:layout_width="57dp"
+        android:layout_height="47.55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="535.99dp"
+        android:background="@drawable/rectangle_3"
+        />
+
+    <View
+        android:layout_width="32dp"
+        android:layout_height="21.35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="549.57dp"
+        android:layout_marginLeft="73dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/cart1"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="535.9dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/ngn_5_50_000"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="562.9dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/approved_21"
+        android:textAppearance="@style/approved_21"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+
+
+    <View
+        android:layout_width="331dp"
+        android:layout_height="130.03dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="614.03dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:background="@drawable/rectangle_00"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="628.03dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-5sp"
+        android:text="@string/health_loan"
+        android:textAppearance="@style/gold_loan" />
+
+    <View
+        android:layout_width="331dp"
+        android:layout_height="82dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="662.06dp"
+        android:background="@drawable/rectangle_90"
+        />
+
+    <View
+        android:layout_width="57dp"
+        android:layout_height="47.55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="61dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="680.02dp"
+        android:background="@drawable/rectangle_3"
+        />
+
+    <View
+        android:layout_width="32dp"
+        android:layout_height="21.35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="693.06dp"
+        android:layout_marginLeft="73dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/cart1"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="679.93dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/ngn_95_000"
+        android:textAppearance="@style/ngn_1_50_00"
+        android:lineSpacingExtra="-5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="21.35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="706.82dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="171dp"
+        android:text="@string/approved_21"
+        android:textAppearance="@style/approved_21"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+
+    </FrameLayout>
+
+
+</ScrollView>

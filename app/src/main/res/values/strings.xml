@@ -1,0 +1,409 @@
+<resources>
+    <string name="app_name">Apex Solution</string>
+
+    <string name="easy_access">
+Easy Access
+</string>
+
+    <string name="my_loan_app">
+My loan App Allows you easy access to loans up to the amount of million Dollar
+</string>
+    <string name="skip">Skip</string>
+
+    <string name="submit">
+Submit
+</string>
+
+    <string name="don_t_have_">
+Don\'t have an account?
+</string>
+
+    <string name="forgot_pass">
+Forgot Password?
+</string>
+    <string name="some_id">
+Enter Your Password
+</string>
+
+    <string name="password">
+Password
+</string>
+
+    <string name="example_gma">
+9723425678
+</string>
+
+    <string name="email">
+Phone Number
+</string>
+
+    <string name="login_to_co">
+Login to Continue
+</string>
+
+    <string name="welcome_">
+Welcome,
+</string>
+    <string name="sign_up">sign_up\n</string>
+
+    <string name="forgot_your">
+Forgot your password
+</string>
+    <string name="you_ve_got_">
+You\'ve got mail
+</string>
+
+    <string name="we_will_sen">
+We will send you the verification code to your email address, check your email and put the code right below .
+</string>
+    <string name="enter_your_">
+Enter Your 6 Digit Code
+</string>
+
+    <string name="didn_t_rece">
+RESEND OTP AGAIN
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="you_have_no">
+        You have no current loan
+    </string>
+
+    <string name="hello_john_">
+        Hello
+    </string>
+    <string name="balance">
+        Balance
+    </string>
+
+    <string name="ngn_0_00">
+        NGN 0.00
+    </string>
+
+
+    <string name="monthly_pay">
+        Monthly payment
+    </string>
+
+    <string name="choose_from">
+        Choose from our loan packages start with the lower value loans and progressively grow.
+    </string>
+
+
+    <string name="tell_me_mor">
+        Tell me more
+    </string>
+
+    <string name="quick_links">
+        Quick Links
+    </string>
+
+    <string name="apply_for_a">
+        Apply for a loan
+    </string>
+
+    <string name="make_a_loan">
+        Make a loan payment
+    </string>
+
+    <string name="loan_breack">
+        Loan breackdown
+    </string>
+
+    <string name="add_payment">
+        Add payment account
+    </string>
+
+    <string name="personal_in">
+        Personal information
+    </string>
+
+    <string name="please_fill">
+        Please fill in the following information
+    </string>
+    <string name="contact">
+        Contact
+    </string>
+
+    <string name="some_id1">
+        1
+    </string>
+    <string name="some_id2">
+        2
+    </string>
+    <string name="some_id3">
+    3
+</string>
+
+    <string name="basic">
+        Basic
+    </string>
+
+    <string name="some_id5">
+1
+</string>
+
+    <string name="some_id6">
+3
+</string>
+    <string name="basic1">
+Basic
+</string>
+
+    <string name="some_id00">
+1
+</string>
+
+    <string name="personal">
+Personal
+</string>
+
+    <string name="contact1">
+Contact
+</string>
+
+    <string name="first_name">
+First Name
+</string>
+    <string name="please_ente">
+Please enter first name
+</string>
+
+    <string name="middle_name">
+        Middle name
+    </string>
+
+    <string name="please_ente1">
+        Please enter middle name
+    </string>
+
+    <string name="last_name">
+        Last name
+    </string>
+
+    <string name="please_ente2">
+        Please enter last name
+    </string>
+
+    <string name="date_of_bir">
+        Date of birth
+    </string>
+
+    <string name="dd_mm_yy">
+        dd/mm/yy
+    </string>
+
+    <string name="gender">
+        Gender
+    </string>
+
+    <string name="female">
+        Female
+    </string>
+
+    <string name="next">
+            Next
+        </string>
+
+    <string name="some_id01">
+            1
+        </string>
+    <string name="some_id21">
+            2
+        </string>
+    <string name="some_id02">
+            3
+        </string>
+    <string name="personal1">
+            Personal
+        </string>
+    <string name="education">
+            Education
+        </string>
+
+    <string name="please_sele">
+            Please enter your highest degree
+        </string>
+
+
+    <string name="job_status">
+            job status
+        </string>
+    <string name="please_sele03">
+            Please enter job status
+        </string>
+    <string name="professiona">
+            Professional
+        </string>
+    <string name="please_sele04">
+            Please enter your profession
+        </string>
+    <string name="salary">
+            Salary
+        </string>
+    <string name="please_sele05">
+            Please enter your salary range
+        </string>
+
+    <string name="marital_sta">
+            marital status
+        </string>
+    <string name="please_sele06">
+            Please enter your marital status
+        </string>
+
+    <string name="some_id08">
+            3
+        </string>
+
+    <string name="contact_1">
+            Contact 1
+        </string>
+    <string name="relationshi">
+            Relationship
+        </string>
+    <string name="please_sele07">
+            Please enter the relationship with you
+        </string>
+    <string name="click_for_n">
+            Enter + for name
+        </string>
+    <string name="contact_2">
+            Contact 2
+        </string>
+    <string name="verify">
+Verify
+</string>
+
+    <string name="student_loa">
+        Student loan
+    </string>
+    <string name="apply">
+        apply
+    </string>
+
+    <string name="some_id000">
+        0.3%
+    </string>
+
+    <string name="interest">
+        interest
+    </string>
+    <string name="ngn_1_50_00">
+        NGN 1,50,000
+    </string>
+
+    <string name="maximum_amo">
+        maximum amount
+    </string>
+    <string name="nano_loan">Nano Loan</string>
+    <string name="ngn_50_000">NGN 50,000</string>
+    <string name="business_loan">Business Loan</string>
+    <string name="_0_5">0.5%</string>
+    <string name="ngn_1_50_000">NGN 1,50,000</string>
+    <string name="gold_loan">Gold Loan</string>
+    <string name="_0_3">0.3%</string>
+    <string name="gold_loan1">Gold Loan</string>
+    <string name="_0_6">0.6%</string>
+    <string name="home_loan">Home Loan</string>
+    <string name="_0_5_">0.5%</string>
+    <string name="_0_7">0.7%</string>
+    <string name="fill_in_the">
+        Fill in the following option to establish how much you want to barrow and how long.
+    </string>
+
+    <string name="loan_amount">
+        Loan Amount
+    </string>
+
+    <string name="ngn_20_000">
+        NGN 20,000
+    </string>
+    <string name="ngn_0">
+        NGN 0
+    </string>
+    <string name="ngn_26_000">
+        NGN 26,000
+    </string>
+
+    <string name="loan_term">
+        Loan Term
+    </string>
+    <string name="days">
+        32 days
+    </string>
+    <string name="days1">
+        90 days
+    </string>
+    <string name="ngn_1000_7_">
+        NGN 1000 (7%)
+    </string>
+    <string name="ngn_20_0001">
+        NGN 20,000
+    </string>
+    <string name="submit_loan">
+        Submit Loan request
+    </string>
+    <string name="payment_wil">
+        Payment will be automatically collected from the debit card linked to your account
+    </string>
+    <string name="duration">
+        Duration
+    </string>
+    <string name="ngn_2000">
+        NGN 2000
+    </string>
+    <string name="total_amouu">
+        Total Amouunt
+    </string>
+    <string name="ngn_22_000">
+        NGN 22,000
+    </string>
+    <string name="purpose_of_">
+        Purpose of loan
+    </string>
+    <string name="bank_accoun">
+        Bank Account information
+    </string>
+    <string name="icici_bank">
+        ICICI Bank
+    </string>
+    <string name="successful">
+        Successful
+    </string>
+    <string name="your_loan_r">
+        Your loan request has sent out successfully.
+    </string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="apex_soluti">
+        Apex Solution
+    </string>
+    <string name="personal2">Personal</string>
+    <string name="contact2">Contact</string>
+    <string name="basic2">Basic</string>
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="my_profile">
+        My profile
+    </string>
+    <string name="john_shekh">
+        John Shekh
+    </string>
+    <string name="student">
+        Student
+    </string>
+    <string name="bank_cards">
+        Bank cards
+    </string>
+    <string name="account_security">Account security</string>
+    <string name="invite_friends">Invite friends</string>
+    <string name="credit_limit">Credit limit</string>
+    <string name="help_and_security">Help and security</string>
+    <string name="online_services">Online services</string>
+
+</resources>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Person_Fragment">
+
+    <View
+        android:id="@+id/vector"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="88dp"
+        android:layout_marginLeft="24dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/baseline_arrow_back_ios_24"
+        />
+
+    <TextView
+        android:id="@+id/my_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="78dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="133dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="-9sp"
+        android:text="@string/my_profile"
+        android:textAppearance="@style/my_profile" />
+
+    <View
+        android:id="@+id/ellipse_15"
+        android:layout_width="87dp"
+        android:layout_height="87dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="132dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="153dp"
+        android:background="@drawable/ellipse"
+        />
+
+
+    <TextView
+        android:id="@+id/john_shekh"
+        android:layout_width="114dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="142dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="234dp"
+        android:text="@string/john_shekh"
+        android:textAppearance="@style/john_shekh"
+        android:lineSpacingExtra="-2sp"
+        android:gravity="center_horizontal|center_vertical"/>
+
+
+    <TextView
+        android:id="@+id/student"
+        android:layout_width="53dp"
+        android:layout_height="22dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="256dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="170dp"
+        android:text="@string/student"
+        android:textAppearance="@style/student"
+        android:lineSpacingExtra="5sp"
+        android:gravity="center_horizontal|center_vertical"
+        />
+
+    <View
+        android:id="@+id/rectangle_3"
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="304dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/box2"
+        />
+
+
+    <TextView
+        android:id="@+id/bank_cards"
+        android:layout_width="74dp"
+        android:layout_height="17dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="317dp"
+        android:text="@string/bank_cards"
+        android:textAppearance="@style/bank_cards"
+        android:gravity="center_horizontal|center_vertical"
+        android:alpha="0.45"
+        />
+
+
+
+
+    <View
+        android:id="@+id/vector2"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="314dp"
+        android:layout_marginLeft="313dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/baseline_keyboard_arrow_right_24"
+        />
+
+
+
+
+
+
+
+    <View
+        android:id="@+id/rectangle_03"
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="366dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/box2"
+        />
+
+    <TextView
+        android:id="@+id/bank_cards2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="379dp"
+        android:alpha="0.45"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/account_security"
+        android:textAppearance="@style/bank_cards" />
+
+    <View
+        android:id="@+id/vector3"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="376dp"
+        android:layout_marginLeft="313dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/baseline_keyboard_arrow_right_24"
+        />
+
+
+
+
+
+    <View
+        android:id="@+id/rectangle_04"
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="428dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/box2"
+        />
+
+    <TextView
+        android:id="@+id/bank_cards3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="441dp"
+        android:alpha="0.45"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/invite_friends"
+        android:textAppearance="@style/bank_cards" />
+
+    <View
+        android:id="@+id/vector4"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="438dp"
+        android:layout_marginLeft="313dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/baseline_keyboard_arrow_right_24"
+        />
+
+
+
+
+    <View
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="490dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/box2"
+        />
+
+    <TextView
+        android:id="@+id/bank_cards4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="503dp"
+        android:alpha="0.45"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/credit_limit"
+        android:textAppearance="@style/bank_cards" />
+
+    <View
+        android:id="@+id/vector5"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="313dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/baseline_keyboard_arrow_right_24"
+        />
+
+
+
+    <View
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="552dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/box2"
+        />
+
+    <TextView
+        android:id="@+id/bank_cards5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="564dp"
+        android:alpha="0.45"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/help_and_security"
+        android:textAppearance="@style/bank_cards" />
+
+    <View
+        android:id="@+id/vector6"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="562dp"
+        android:layout_marginLeft="313dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/baseline_keyboard_arrow_right_24"
+        />
+
+
+
+
+    <View
+        android:layout_width="328dp"
+        android:layout_height="42dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="614dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/box2"
+        />
+
+    <TextView
+        android:id="@+id/bank_cards6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="626dp"
+        android:alpha="0.45"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/online_services"
+        android:textAppearance="@style/bank_cards" />
+
+    <View
+        android:id="@+id/vector7"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="624dp"
+        android:layout_marginLeft="313dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/baseline_keyboard_arrow_right_24"
+        />
+
+
+    <Button
+        android:id="@+id/group_3"
+        android:layout_width="343dp"
+        android:layout_height="48dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="690dp"
+        android:text="Log out"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:backgroundTint="@color/blue"
+        />
+
+
+
+
+
+
+</FrameLayout>
+
+
+
+
+

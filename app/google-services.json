@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821246897841",
+    "project_id": "loan-app-cbed8",
+    "storage_bucket": "loan-app-cbed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821246897841:android:fb9a2c21b824df5e34bc90",
+        "android_client_info": {
+          "package_name": "com.example.loanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyEZtwYDUZGC08TTYlJum5uUktpk-5Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
